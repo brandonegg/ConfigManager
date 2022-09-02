@@ -1,0 +1,24 @@
+{
+    "datasets": null,
+    "desired-traits": {
+        "FIQ-score": "70<",
+        "age": "10-*",
+        "no-comorbidities": null,
+        "no-dsm": null,
+        "s": [
+            "none",
+            "here"
+        ],
+        "selected-columns": [
+            "yo",
+            "here",
+            "bye"
+        ]
+    },
+    "test": {
+        "badrange": "0.1-10.3",
+        "float_num": null,
+        "int_num": null,
+        "range": "5.43-10.6"
+    }
+}

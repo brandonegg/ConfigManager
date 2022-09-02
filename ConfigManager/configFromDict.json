@@ -1,0 +1,37 @@
+{
+    "datasets": {
+        "dir1": {
+            "10-20": {
+                "runs": "1-3",
+                "tasks": null
+            }
+        },
+        "dir2": {
+            "40-50": {
+                "runs": null,
+                "tasks": [
+                    "task1",
+                    "2",
+                    "3"
+                ]
+            }
+        }
+    },
+    "desired-traits": {
+        "FIQ-score": null,
+        "age": "10-20",
+        "no-comorbidities": null,
+        "no-dsm": null,
+        "selected-columns": [
+            "this",
+            "is",
+            "columns"
+        ]
+    },
+    "test": {
+        "badrange": null,
+        "float_num": null,
+        "int_num": null,
+        "range": null
+    }
+}
